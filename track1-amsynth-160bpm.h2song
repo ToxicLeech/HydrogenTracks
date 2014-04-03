@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>0.9.6-</version>
- <bpm>120</bpm>
- <volume>0.73</volume>
+ <bpm>160</bpm>
+ <volume>1.31842</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
  <author>Unknown</author>
@@ -17,13 +17,13 @@
  <instrumentList>
   <instrument>
    <id>0</id>
-   <name>909 x-over</name>
-   <drumkit></drumkit>
-   <volume>1</volume>
+   <name>TR-707 KIck 1</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>0.87931</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
-   <gain>1</gain>
+   <gain>1.05</gain>
    <filterActive>true</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
@@ -34,14 +34,14 @@
    <Attack>0</Attack>
    <Decay>0</Decay>
    <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
+   <Release>33896</Release>
+   <randomPitchFactor>0.39</randomPitchFactor>
    <muteGroup>-1</muteGroup>
    <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutChannel>0</midiOutChannel>
+   <midiOutNote>74</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/909_xOver_4a.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/BassDrum1.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -60,14 +60,14 @@
   </instrument>
   <instrument>
    <id>1</id>
-   <name>808 x-over</name>
-   <drumkit></drumkit>
-   <volume>1</volume>
+   <name>TR-707 Kick 2</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>0.892241</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -81,10 +81,10 @@
    <randomPitchFactor>0</randomPitchFactor>
    <muteGroup>-1</muteGroup>
    <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutChannel>1</midiOutChannel>
+   <midiOutNote>62</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/808_xOver_2.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/BassDrum2.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -103,14 +103,14 @@
   </instrument>
   <instrument>
    <id>2</id>
-   <name>sim kick 2</name>
-   <drumkit></drumkit>
+   <name>TR-707 Rim</name>
+   <drumkit>Roland TR-707</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -127,7 +127,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/sim_k02-0.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/RimShot.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -146,14 +146,14 @@
   </instrument>
   <instrument>
    <id>3</id>
-   <name>77 kick</name>
-   <drumkit></drumkit>
-   <volume>0.97</volume>
+   <name>TR-707 Snare 1</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -170,7 +170,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/rhythm77_bd.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Snare1.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -189,14 +189,14 @@
   </instrument>
   <instrument>
    <id>4</id>
-   <name>77 snare</name>
-   <drumkit></drumkit>
-   <volume>0.92</volume>
+   <name>TR-707 Snare 2</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -213,7 +213,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/rhythm77_sn.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Snare2.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -232,14 +232,14 @@
   </instrument>
   <instrument>
    <id>5</id>
-   <name>909 snare</name>
-   <drumkit></drumkit>
-   <volume>0.86</volume>
+   <name>TR-707 Clap</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>0.99</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -256,7 +256,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/909sn.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HandClap.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -275,14 +275,14 @@
   </instrument>
   <instrument>
    <id>6</id>
-   <name>909 clap</name>
-   <drumkit></drumkit>
-   <volume>0.92</volume>
+   <name>TR-707 Low Tom</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <pan_R>0.56</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -299,7 +299,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/909clap.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/LowTom.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -318,14 +318,14 @@
   </instrument>
   <instrument>
    <id>7</id>
-   <name>77 tom low</name>
-   <drumkit></drumkit>
-   <volume>0.9</volume>
+   <name>TR-707 Med Tom</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -342,7 +342,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/rhythm77_low_tom.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/MedTom.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -361,14 +361,14 @@
   </instrument>
   <instrument>
    <id>8</id>
-   <name>77 tom hi</name>
-   <drumkit></drumkit>
-   <volume>0.96</volume>
+   <name>TR-707 Hi Tom</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
+   <pan_L>0.64</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -385,7 +385,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/rhythm77_high_tom.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HiTom.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -404,14 +404,14 @@
   </instrument>
   <instrument>
    <id>9</id>
-   <name>77 chh</name>
-   <drumkit></drumkit>
-   <volume>0.93</volume>
+   <name>TR-707 Closed Hat</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -423,12 +423,12 @@
    <Sustain>1</Sustain>
    <Release>1000</Release>
    <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
+   <muteGroup>0</muteGroup>
    <isStopNote>false</isStopNote>
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/rhythm77_ch.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HhC.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -447,14 +447,14 @@
   </instrument>
   <instrument>
    <id>10</id>
-   <name>77 ohh</name>
-   <drumkit></drumkit>
-   <volume>0.86</volume>
+   <name>TR-707 Open Hat</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -466,12 +466,12 @@
    <Sustain>1</Sustain>
    <Release>1000</Release>
    <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
+   <muteGroup>0</muteGroup>
    <isStopNote>false</isStopNote>
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/rhythm77_oh.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HhO.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -490,14 +490,14 @@
   </instrument>
   <instrument>
    <id>11</id>
-   <name>909 ohh</name>
-   <drumkit></drumkit>
-   <volume>0.89</volume>
+   <name>TR-707 Ride</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -514,7 +514,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/909ohh.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Ride.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -533,14 +533,14 @@
   </instrument>
   <instrument>
    <id>12</id>
-   <name>FX 1</name>
-   <drumkit></drumkit>
-   <volume>0.8</volume>
+   <name>TR-707 Crash</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -557,7 +557,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/fx_09.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Crash.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -576,14 +576,14 @@
   </instrument>
   <instrument>
    <id>13</id>
-   <name>FX 2</name>
-   <drumkit></drumkit>
-   <volume>0.8</volume>
+   <name>TR-707 Tamb</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -600,7 +600,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/fx_10.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Tamb.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -619,14 +619,14 @@
   </instrument>
   <instrument>
    <id>14</id>
-   <name>FX 3</name>
-   <drumkit></drumkit>
-   <volume>0.8</volume>
+   <name>TR-707 Cowbell</name>
+   <drumkit>Roland TR-707</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
-   <filterActive>true</filterActive>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -643,50 +643,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/fx_17b.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>15</id>
-   <name>sim bass 2</name>
-   <drumkit></drumkit>
-   <volume>0.8</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Techno-1/sim_bass_23_01.wav</filename>
+    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/CowBell.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -708,7 +665,7 @@
   <pattern>
    <name>Pattern 1</name>
    <category>not_categorized</category>
-   <size>384</size>
+   <size>216</size>
    <noteList>
     <note>
      <position>0</position>
@@ -719,7 +676,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>11</instrument>
+     <instrument>0</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -731,30 +688,6 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>48</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>48</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
      <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
@@ -767,7 +700,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>9</instrument>
+     <instrument>0</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -779,31 +712,19 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>96</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>96</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
      <instrument>1</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -815,7 +736,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>2</instrument>
+     <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -827,19 +748,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>144</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>9</instrument>
+     <instrument>0</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -851,35 +760,11 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>192</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>192</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
      <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
     <note>
-     <position>216</position>
+     <position>192</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -887,151 +772,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>240</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>240</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>9</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>264</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>288</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>288</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>7</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>312</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>312</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>7</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>336</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>336</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>7</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>336</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>9</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>360</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>360</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>7</instrument>
+     <instrument>0</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
