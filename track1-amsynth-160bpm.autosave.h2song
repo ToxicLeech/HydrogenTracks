@@ -16,15 +16,15 @@
  <swing_factor>0</swing_factor>
  <instrumentList>
   <instrument>
-   <id>0</id>
-   <name>TR-707 KIck 1</name>
-   <drumkit>Roland TR-707</drumkit>
-   <volume>0.87931</volume>
+   <id>1</id>
+   <name>lofi snr2</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
-   <gain>1.05</gain>
-   <filterActive>true</filterActive>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
    <FX1Level>0</FX1Level>
@@ -34,14 +34,14 @@
    <Attack>0</Attack>
    <Decay>0</Decay>
    <Sustain>1</Sustain>
-   <Release>33896</Release>
-   <randomPitchFactor>0.39</randomPitchFactor>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
    <muteGroup>-1</muteGroup>
    <isStopNote>false</isStopNote>
    <midiOutChannel>0</midiOutChannel>
    <midiOutNote>74</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/BassDrum1.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/lofi snr2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -52,17 +52,17 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
    </layer>
   </instrument>
   <instrument>
-   <id>1</id>
-   <name>TR-707 Kick 2</name>
-   <drumkit>Roland TR-707</drumkit>
-   <volume>0.892241</volume>
+   <id>2</id>
+   <name>lofi snr</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -84,7 +84,7 @@
    <midiOutChannel>1</midiOutChannel>
    <midiOutNote>62</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/BassDrum2.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/lofi snr.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -95,50 +95,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>2</id>
-   <name>TR-707 Rim</name>
-   <drumkit>Roland TR-707</drumkit>
-   <volume>1</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>false</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/RimShot.flac</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -146,8 +103,8 @@
   </instrument>
   <instrument>
    <id>3</id>
-   <name>TR-707 Snare 1</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>metal hit</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -170,7 +127,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Snare1.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/metal hit.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -181,7 +138,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -189,8 +146,8 @@
   </instrument>
   <instrument>
    <id>4</id>
-   <name>TR-707 Snare 2</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>deep kick</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -213,7 +170,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Snare2.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/deep kick.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -224,7 +181,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -232,9 +189,9 @@
   </instrument>
   <instrument>
    <id>5</id>
-   <name>TR-707 Clap</name>
-   <drumkit>Roland TR-707</drumkit>
-   <volume>0.99</volume>
+   <name>trash crash cym</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -256,7 +213,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HandClap.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/trash crash cym.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -267,7 +224,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -275,12 +232,12 @@
   </instrument>
   <instrument>
    <id>6</id>
-   <name>TR-707 Low Tom</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>chh1</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
-   <pan_R>0.56</pan_R>
+   <pan_R>1</pan_R>
    <gain>1</gain>
    <filterActive>false</filterActive>
    <filterCutoff>1</filterCutoff>
@@ -299,7 +256,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/LowTom.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/chh1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -310,7 +267,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -318,8 +275,8 @@
   </instrument>
   <instrument>
    <id>7</id>
-   <name>TR-707 Med Tom</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>tiny snr</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -342,7 +299,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/MedTom.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/tiny snr.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -353,7 +310,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -361,11 +318,11 @@
   </instrument>
   <instrument>
    <id>8</id>
-   <name>TR-707 Hi Tom</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>lo tom</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>0.64</pan_L>
+   <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
    <filterActive>false</filterActive>
@@ -385,7 +342,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HiTom.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/lo tom.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -396,7 +353,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -404,8 +361,8 @@
   </instrument>
   <instrument>
    <id>9</id>
-   <name>TR-707 Closed Hat</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>foot hat</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -423,12 +380,12 @@
    <Sustain>1</Sustain>
    <Release>1000</Release>
    <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>0</muteGroup>
+   <muteGroup>-1</muteGroup>
    <isStopNote>false</isStopNote>
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HhC.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/foot hat.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -439,7 +396,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -447,8 +404,8 @@
   </instrument>
   <instrument>
    <id>10</id>
-   <name>TR-707 Open Hat</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>drumkit</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -466,12 +423,12 @@
    <Sustain>1</Sustain>
    <Release>1000</Release>
    <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>0</muteGroup>
+   <muteGroup>-1</muteGroup>
    <isStopNote>false</isStopNote>
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/HhO.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/drumkit.xml</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -482,7 +439,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -490,8 +447,8 @@
   </instrument>
   <instrument>
    <id>11</id>
-   <name>TR-707 Ride</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>ohh</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -514,7 +471,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Ride.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/ohh.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -525,7 +482,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -533,8 +490,8 @@
   </instrument>
   <instrument>
    <id>12</id>
-   <name>TR-707 Crash</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>open close hat</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -557,7 +514,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Crash.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/open close hat.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -568,7 +525,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -576,8 +533,8 @@
   </instrument>
   <instrument>
    <id>13</id>
-   <name>TR-707 Tamb</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>dist kick</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -600,7 +557,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/Tamb.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/dist kick.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -611,7 +568,7 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -619,8 +576,8 @@
   </instrument>
   <instrument>
    <id>14</id>
-   <name>TR-707 Cowbell</name>
-   <drumkit>Roland TR-707</drumkit>
+   <name>hi mid tom</name>
+   <drumkit>drum_and_bass</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -643,7 +600,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/usr/share/hydrogen/data/drumkits/Roland TR-707/CowBell.flac</filename>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/hi mid tom.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -654,7 +611,1254 @@
     <rubberdivider>1</rubberdivider>
     <rubberCsettings>4</rubberCsettings>
     <rubberPitch>1</rubberPitch>
-    <min>0</min>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>15</id>
+   <name>china cym</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/china cym.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>16</id>
+   <name>metal hit3</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/metal hit3.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>17</id>
+   <name>klang snr2</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/klang snr2.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>18</id>
+   <name>dist syn snr</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/dist syn snr.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>19</id>
+   <name>lo mid tom</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/lo mid tom.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>20</id>
+   <name>blip kick2</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/blip kick2.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>21</id>
+   <name>mach snr hi</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/mach snr hi.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>22</id>
+   <name>shrt tite snr</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/shrt tite snr.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>23</id>
+   <name>clean snr2</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/clean snr2.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>24</id>
+   <name>bass slide down</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/bass slide down.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>25</id>
+   <name>noise clap</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/noise clap.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>26</id>
+   <name>klang snr</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/klang snr.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>27</id>
+   <name>snare scrape</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/snare scrape.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>28</id>
+   <name>hi tom1</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/hi tom1.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>29</id>
+   <name>trash kick3</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/trash kick3.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>30</id>
+   <name>metal hit2</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/metal hit2.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>31</id>
+   <name>blip hi</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/blip hi.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>32</id>
+   <name>tin snr</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/tin snr.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>33</id>
+   <name>trash kick1</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/trash kick1.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>34</id>
+   <name>blip kick</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/blip kick.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>35</id>
+   <name>hi tom2</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/hi tom2.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>36</id>
+   <name>mid tom</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/mid tom.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>37</id>
+   <name>metal hit short</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/metal hit short.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>38</id>
+   <name>clean snr</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/clean snr.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>39</id>
+   <name></name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/.drumkit.xml.swp</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>40</id>
+   <name>kik n hat</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/kik n hat.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>41</id>
+   <name>trash kick2</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/trash kick2.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>42</id>
+   <name>stik snr</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/stik snr.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>43</id>
+   <name>blip kick3</name>
+   <drumkit>drum_and_bass</drumkit>
+   <volume>1</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>false</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/home/erratic/.hydrogen/data/drumkits/drum_and_bass/blip kick3.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.67</min>
     <max>1</max>
     <gain>1</gain>
     <pitch>0</pitch>
@@ -676,7 +1880,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -688,7 +1892,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>1</instrument>
+     <instrument>2</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -700,7 +1904,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -712,7 +1916,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>1</instrument>
+     <instrument>2</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -724,7 +1928,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -736,7 +1940,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>1</instrument>
+     <instrument>2</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -748,7 +1952,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -760,7 +1964,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>1</instrument>
+     <instrument>2</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -772,7 +1976,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>1</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>

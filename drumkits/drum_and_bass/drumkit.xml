@@ -1,0 +1,1076 @@
+<drumkit_info><info>generated with a php script</info><license>GPL</license><instrumentList><instrument>
+				<id>1</id>
+				<name>lofi snr2</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>lofi snr2.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>2</id>
+				<name>lofi snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>lofi snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>3</id>
+				<name>metal hit</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>metal hit.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>4</id>
+				<name>deep kick</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>deep kick.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>5</id>
+				<name>trash crash cym</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>trash crash cym.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>6</id>
+				<name>chh1</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>chh1.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>7</id>
+				<name>tiny snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>tiny snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>8</id>
+				<name>lo tom</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>lo tom.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>9</id>
+				<name>foot hat</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>foot hat.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>10</id>
+				<name>drumkit</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>drumkit.xml</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>11</id>
+				<name>ohh</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>ohh.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>12</id>
+				<name>open close hat</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>open close hat.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>13</id>
+				<name>dist kick</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>dist kick.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>14</id>
+				<name>hi mid tom</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>hi mid tom.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>15</id>
+				<name>china cym</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>china cym.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>16</id>
+				<name>metal hit3</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>metal hit3.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>17</id>
+				<name>klang snr2</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>klang snr2.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>18</id>
+				<name>dist syn snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>dist syn snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>19</id>
+				<name>lo mid tom</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>lo mid tom.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>20</id>
+				<name>blip kick2</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>blip kick2.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>21</id>
+				<name>mach snr hi</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>mach snr hi.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>22</id>
+				<name>shrt tite snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>shrt tite snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>23</id>
+				<name>clean snr2</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>clean snr2.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>24</id>
+				<name>bass slide down</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>bass slide down.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>25</id>
+				<name>noise clap</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>noise clap.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>26</id>
+				<name>klang snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>klang snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>27</id>
+				<name>snare scrape</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>snare scrape.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>28</id>
+				<name>hi tom1</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>hi tom1.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>29</id>
+				<name>trash kick3</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>trash kick3.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>30</id>
+				<name>metal hit2</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>metal hit2.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>31</id>
+				<name>blip hi</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>blip hi.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>32</id>
+				<name>tin snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>tin snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>33</id>
+				<name>trash kick1</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>trash kick1.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>34</id>
+				<name>blip kick</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>blip kick.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>35</id>
+				<name>hi tom2</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>hi tom2.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>36</id>
+				<name>mid tom</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>mid tom.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>37</id>
+				<name>metal hit short</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>metal hit short.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>38</id>
+				<name>clean snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>clean snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>39</id>
+				<name></name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>.drumkit.xml.swp</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>40</id>
+				<name>kik n hat</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>kik n hat.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>41</id>
+				<name>trash kick2</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>trash kick2.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>42</id>
+				<name>stik snr</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>stik snr.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+<instrument>
+				<id>43</id>
+				<name>blip kick3</name>
+				<isMuted>false</isMuted>
+				<isLocked>false</isLocked>
+				<pan_L>1</pan_L>
+				<pan_R>1</pan_R>
+				<randomPitchFactor>0</randomPitchFactor>
+				<gain>1</gain>
+				<filterActive>false</filterActive>
+				<filterCutoff>1</filterCutoff>
+				<filterResonance>0</filterResonance>
+				<Attack>0</Attack>
+				<Decay>0</Decay>
+				<Sustain>1</Sustain>
+				<Release>1000</Release>
+				<muteGroup>-1</muteGroup>
+				<layer>
+				<filename>blip kick3.wav</filename>
+				<min>0.67</min>
+				<max>1.0</max>
+				<gain>1</gain>
+				<pitch>0</pitch>
+				</layer>
+				</instrument>
+</instrumentList></drumkit_info>

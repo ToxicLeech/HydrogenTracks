@@ -1177,6 +1177,40 @@
   <group>
    <patternID>Pattern 1</patternID>
   </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group/>
+  <group>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group/>
+  <group/>
+  <group/>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
  </patternSequence>
  <ladspa>
   <fx>
